@@ -11,9 +11,6 @@ numbering:
     enabled: false
 no-update-date: true
 
-downloads:
-  - file: _static/Presentatie DiDaDoDa.pptx
-    title: Presentatie
 ---
 
 
@@ -23,6 +20,7 @@ downloads:
 
 *DiDaDoDaDocenten*  
 
+[Presentatie](_static/Presentatie DiDaDoDa.pptx)
 
 ```{figure} figuren/cover.JPG
 ```
